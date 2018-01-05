@@ -1,3 +1,3 @@
-# Elements Project
+# Elements Project using Jekyll
 
-### [Elements](https://loisgordon.github.io/elements/index.html)
+### [Elements](https://loisgordon.github.io/elements_jekyll/index.html)
