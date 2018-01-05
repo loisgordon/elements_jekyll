@@ -1,0 +1,12 @@
+# Site settings
+title: Elements 
+url: http://127.0.0.1:4000/
+description: "Elements Website"
+baseurl: 
+
+# Footer settings
+footer: designed and developed by Lois Gordon | Copyright 2017 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
